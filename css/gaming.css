@@ -1,5 +1,9 @@
 .stream {
-	margin-left: auto;
-    margin-right: auto;
+	margin: 0 auto 0 auto;
     width: 70%;
+    padding: 25px 0 25px 0;
+}
+.Playlist{
+    box-shadow: #101010;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
